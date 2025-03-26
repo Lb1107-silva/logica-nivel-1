@@ -1,6 +1,7 @@
-print("quantos anos você está vivo?")
+print("digite a sua idade em anos:")
 numero1 = int(input())
-print("quantos meses em vida?")
+print("digite a idade em meses:")
 numero2 = int(input())
-print("os dias da idade é:")
-print((numero1 * 365) - (365 / numero2))
+print("seus dias de vida são:")
+print((numero1*365) + (numero2*30))
+
