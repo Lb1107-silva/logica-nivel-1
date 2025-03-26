@@ -1,6 +1,6 @@
 print("digite a sua idade em anos:")
 numero1 = int(input())
-print("digite a idade em meses:")
+print("Qual mês do seu aniversário?:")
 numero2 = int(input())
 print("Qual dia do seu aniversário?")
 numero3 = int(input())
