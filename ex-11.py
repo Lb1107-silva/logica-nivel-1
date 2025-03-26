@@ -1,0 +1,6 @@
+print("quantos anos você está vivo?")
+numero1 = int(input())
+print("quantos meses em vida?")
+numero2 = int(input())
+print("os dias da idade é:")
+print((numero1 * 365) - (365 / numero2))
