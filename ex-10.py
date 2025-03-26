@@ -1,0 +1,6 @@
+print("qual a base do retangulo?")
+numero1 = int(input())
+print("qual a altura do retangulo?")
+numero2 = int(input())
+print("a area do retangulo é :")
+print(numero1 * numero2)
