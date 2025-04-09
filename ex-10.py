@@ -1,3 +1,4 @@
+print("exercício 12")
 print("qual a base do retangulo?")
 numero1 = int(input())
 print("qual a altura do retangulo?")
