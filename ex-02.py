@@ -1,3 +1,4 @@
+print("exercício 4")
 print ("XXXXX")
 print ("X   X")
 print ("X   X")
