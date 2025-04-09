@@ -1,3 +1,4 @@
+print("exercício 14")
 valor = int(input("Digite um valor: "))
 
 if valor > 10:
