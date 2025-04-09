@@ -1,3 +1,4 @@
+print("exercício 6")
 print ("0 - Fim")
 print ("1 - Inclui")
 print ("2 - Altera")
