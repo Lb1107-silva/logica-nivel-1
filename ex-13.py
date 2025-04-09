@@ -1,3 +1,4 @@
+print("exercício 15")
 numero = float(input("Digite um número: "))
 
 if numero >= 0:
