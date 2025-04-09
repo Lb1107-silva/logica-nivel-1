@@ -1,3 +1,4 @@
+print("exercício 13")
 print("digite a sua idade em anos:")
 numero1 = int(input())
 print("Qual mês do seu aniversário?:")
