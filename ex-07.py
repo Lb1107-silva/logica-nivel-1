@@ -1,3 +1,4 @@
+print("exercício 9")
 print("qual primeiro numero?")
 numero1 = int(input())
 print("qual segundo numero?")
