@@ -1,3 +1,4 @@
+print("exercício 5")
 print ("Alunos              Notas ")
 
 print ("Aline                10")
