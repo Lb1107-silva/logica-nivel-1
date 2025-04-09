@@ -1,3 +1,4 @@
+print("exercício 2/3")
 print ("Meu nome é Lucas")
 print("Sou residente do Rio de Janeiro")
 print ("municipio de Queimados.")
