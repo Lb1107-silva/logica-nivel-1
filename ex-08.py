@@ -1,3 +1,4 @@
+print("exercício 10")
 print("qual foi a primeira nota?")
 numero1 = int(input())
 print("qual foi a segunda nota?")
